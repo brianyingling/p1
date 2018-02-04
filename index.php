@@ -14,22 +14,21 @@
     <body>
         <div class="container">
             <div class="row">
-
                 <div class="six columns">
                     <img src="/images/me.jpg" alt="Picture of me"/>
                 </div>
-
-
                 <div class="six columns">
                     <h1>Brian Yingling</h1>
                     <h3>About Me</h3>
                     <p>
                         I'm a former teacher who made a career change to web development about four years ago.
                         I'm currently working in the industry as a front end developer. I work with Javascript
-                        daily but I'm eager to learn PHP and Laravel. 
+                        daily but I'm eager to learn more server side development. 
                     </p>
                     <p>
-                        I'm married with a ten-month-old son that takes up much of my time.</p>
+                        I'm married with a ten-month-old son that takes up much of my time. I enjoy reading, traveling,
+                        and while I don't enjoy cooking, I relish in the results of those who do.
+                    </p>
                     <h3>Random Quote</h3>
                     <blockquote>
                         <div class='quote-text'>
