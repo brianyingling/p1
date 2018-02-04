@@ -1,5 +1,5 @@
 <?php 
-    include './quotes.php';
+    require './quotes.php';
     $quote = getRandomQuote();
 ?>
 
