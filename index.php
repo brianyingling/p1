@@ -14,10 +14,10 @@
     <body>
         <div class="container">
             <div class="row">
-                <div class="six columns">
+                <div class="five columns">
                     <img src="/images/me.jpg" alt="Picture of me"/>
                 </div>
-                <div class="six columns">
+                <div class="seven columns">
                     <h1>Brian Yingling</h1>
                     <h3>About Me</h3>
                     <p>
