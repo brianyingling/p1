@@ -32,10 +32,10 @@
                     <h3>Random Quote</h3>
                     <blockquote>
                         <div class='quote-text'>
-                            <? echo $quote['text']; ?>
+                            <?php echo $quote['text']; ?>
                         </div>
                         <div class='quote-author'>
-                            -- <? echo $quote['author']; ?>
+                            -- <?php echo $quote['author']; ?>
                         </div>
                     </blockquote
                 </div>
