@@ -1,6 +1,6 @@
 # Project 1
 + By: *Brian Yingling*
-+ Production URL: <http://p1.byinglingdwa15.site.com>
++ Production URL: <http://p1.byinglingdwa15.site>
 
 ## Outside resources
 - I used the minimal Skeleton CSS framework for styling: <http://getskeleton.com/>
