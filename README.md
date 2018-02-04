@@ -12,4 +12,5 @@
     - JFK and Neil Armstrong quotes are common knowledge
 
 ## Notes for instructor
-- Nothing that I can think of. I enjoyed learning about Digital Ocean. Looks like a great IaaS!
+- Ran into an issue where on my local machine the `<?` tags were working but on production they were not. I had to change them to `<?php`. Not sure why that is; I imagine it must be a setting in PHP somewhere.
+- I enjoyed learning about Digital Ocean. Looks like a great IaaS!
