@@ -36,7 +36,7 @@
                         <div class='quote-author'>
                             -- <?php echo $quote['author']; ?>
                         </div>
-                    </blockquote
+                    </blockquote>
                 </div>
             </div>
     </body>
