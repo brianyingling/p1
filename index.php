@@ -1,9 +1,8 @@
+<!DOCTYPE html>
 <?php 
     require './quotes.php';
     $quote = getRandomQuote();
 ?>
-
-<!-- Nice blockquoting style; https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ -->
 <html>
     <head>
         <title>Project 1 - Dynamic Web Applications</title>

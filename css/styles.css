@@ -17,9 +17,6 @@ img {
 }
 
 .container {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
     width: 80%;
     border: 1px solid tan;
     box-shadow: 1px 1px 5px tan;
